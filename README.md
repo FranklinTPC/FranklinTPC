@@ -1,7 +1,7 @@
 <h1 align="center">Franklin Correia</h1>
 
 <p align="center">
-MSc Student in <b>Mechatronics Engineering</b> <br>
+MSc Student in <b>Electrical and Computer Engineering </b> <br>
 Researcher in <b>Artificial Intelligence for Industrial Systems</b>
 </p>
 
