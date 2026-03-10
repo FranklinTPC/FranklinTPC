@@ -84,11 +84,14 @@ My current research explores **Machine Learning-based Digital Twins** capable of
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranklinTPC&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinTPC&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranklinTPC&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FranklinTPC&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
