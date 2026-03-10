@@ -1,7 +1,7 @@
 <h1 align="center">Franklin Correia</h1>
 
 <p align="center">
-MSc Student in <b>Electrical and Computer Engineering </b> <br>
+MSc Student in <b>Electrical and Computer Engineering</b> <br>
 Researcher in <b>Artificial Intelligence for Industrial Systems</b>
 </p>
 
@@ -28,6 +28,16 @@ My background combines:
 
 ---
 
+# 🔬 Research Areas
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-research-blue)
+![Digital Twins](https://img.shields.io/badge/Digital%20Twins-research-blue)
+![Cyber Physical Systems](https://img.shields.io/badge/Cyber%20Physical%20Systems-research-blue)
+![Industrial AI](https://img.shields.io/badge/Industrial%20AI-research-blue)
+![Predictive Maintenance](https://img.shields.io/badge/Predictive%20Maintenance-research-blue)
+
+---
+
 # 🔬 Research Interests
 
 - Artificial Intelligence for Industrial Systems  
@@ -43,9 +53,11 @@ My background combines:
 
 My current research explores **Machine Learning-based Digital Twins** capable of predicting system behavior under different operating conditions.
 
+---
+
 # 🧠 Technical Skills
 
-## Programming
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -53,24 +65,21 @@ My current research explores **Machine Learning-based Digital Twins** capable of
 
 ---
 
-## Machine Learning & Data
+## 🧠 AI / Data / Backend
 
-- Scikit-Learn  
-- Pandas  
-- NumPy  
-- Feature Engineering  
-- Data Processing Pipelines  
-- Model Evaluation  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-## Systems & Infrastructure
+## ⚙️ Infrastructure / Systems
 
-- Linux / Ubuntu  
-- Git  
-- Docker (learning)  
-- Kubernetes environments  
-- Prometheus Monitoring  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
 
