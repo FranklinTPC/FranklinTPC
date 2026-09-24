@@ -13,7 +13,7 @@ Machine Learning • Digital Twins • Cyber-Physical Systems • Industrial Mon
 
 # 👨‍🔬 About Me
 
-I am a Master's student in **Mechatronics Engineering** working on the development of intelligent systems for industrial and distributed environments.
+I am a Master's student in **Computer Engineering** working on the development of intelligent systems for industrial and distributed environments.
 
 My research focuses on applying **Artificial Intelligence and Machine Learning** to analyze and predict the behavior of complex systems such as cloud infrastructures and industrial equipment.
 
